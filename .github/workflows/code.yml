@@ -2,9 +2,11 @@ on:
   workflow_dispatch:
     branches:
       - main
-job:
+job: 
+  test:
 runs-on: ubuntu-latest
     steps:
+    
        - name: Compile the code 
        
 
