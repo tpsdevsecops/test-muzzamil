@@ -1,0 +1,13 @@
+on:
+  workflow_dispatch:
+    branches:
+      - main
+job:
+runs-on: ubuntu-latest
+    steps:
+       - name: Compile the code 
+       
+
+
+jobs:
+  - name: Compile the code
