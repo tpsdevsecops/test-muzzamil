@@ -1,0 +1,46 @@
+cd 
+df -h
+du
+lsof
+ln -s 
+mkdir
+cat
+mv
+cp
+scp
+cd 
+pwd
+ls
+ll
+ls -a
+zip
+gunzip
+chmod 
+chown 
+unzip
+curl
+awk
+sudo
+duoc
+find / 
+*
+grep 
+%d
+apt
+sudo apt get-update
+docker mv 
+docker ls 
+docker cp
+docker build -t 
+docker images
+kubectl g
+vim nano
+cat
+echo "hello" >> muzz.txt
+kubectl get pods,svc, deployment
+kubectl apply -f filename.yml
+date 
+netstat 
+ping, curl 
+rm -r 
+wget
